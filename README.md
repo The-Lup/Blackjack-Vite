@@ -1,4 +1,4 @@
-# blackjack-vite
+# Blackjack-Vite
 Implementación del clásico juego Blackjack, desarrollada con JavaScript y empaquetada con Vite para un entorno rápido y moderno de desarrollo.
 
 # Blackjack con Vite ♠️♥️♣️♦️
