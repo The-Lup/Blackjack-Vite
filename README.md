@@ -16,7 +16,7 @@ El código ha sido **refactorizado** para hacerlo modular y fácil de mantener.
 - Se reorganizó la estructura para aprovechar el sistema de módulos de Vite.
 - Archivos de imágenes (cartas) colocados en la carpeta `public/assets/cartas` para una carga sencilla:
   ```js
-  imgCard.src = `./assets/cartas/${card}.png`;
+  imgCard.src = `/assets/cartas/${card}.png`;
   ```
 
 ### 2. Código Modular
